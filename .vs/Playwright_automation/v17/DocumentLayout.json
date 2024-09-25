@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\Playwright_automation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\Playwright_automation\\tests\\demo.spec.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\demo.spec.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\Playwright_automation\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\Playwright_automation\\tests\\example.spec.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\example.spec.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\Playwright_automation\\playwright.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:playwright.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\Playwright_automation\\tests-examples\\demo-todo-app.spec.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests-examples\\demo-todo-app.spec.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo.spec.js",
+              "DocumentMoniker": "D:\\projects\\Playwright_automation\\tests\\demo.spec.js",
+              "RelativeDocumentMoniker": "tests\\demo.spec.js",
+              "ToolTip": "D:\\projects\\Playwright_automation\\tests\\demo.spec.js",
+              "RelativeToolTip": "tests\\demo.spec.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-03T11:57:06.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "D:\\projects\\Playwright_automation\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "D:\\projects\\Playwright_automation\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T03:00:49.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "demo-todo-app.spec.js",
+              "DocumentMoniker": "D:\\projects\\Playwright_automation\\tests-examples\\demo-todo-app.spec.js",
+              "RelativeDocumentMoniker": "tests-examples\\demo-todo-app.spec.js",
+              "ToolTip": "D:\\projects\\Playwright_automation\\tests-examples\\demo-todo-app.spec.js",
+              "RelativeToolTip": "tests-examples\\demo-todo-app.spec.js",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-03T02:31:19.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "playwright.config.js",
+              "DocumentMoniker": "D:\\projects\\Playwright_automation\\playwright.config.js",
+              "RelativeDocumentMoniker": "playwright.config.js",
+              "ToolTip": "D:\\projects\\Playwright_automation\\playwright.config.js",
+              "RelativeToolTip": "playwright.config.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-03T02:29:05.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "example.spec.js",
+              "DocumentMoniker": "D:\\projects\\Playwright_automation\\tests\\example.spec.js",
+              "RelativeDocumentMoniker": "tests\\example.spec.js",
+              "ToolTip": "D:\\projects\\Playwright_automation\\tests\\example.spec.js",
+              "RelativeToolTip": "tests\\example.spec.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-03T02:28:13.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
